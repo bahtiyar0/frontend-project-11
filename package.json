@@ -1,0 +1,27 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "my new project RSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahtiyar0/frontend-project-11.git"
+  },
+  "author": "Bahtiyar K.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahtiyar0/frontend-project-11/issues"
+  },
+  "homepage": "https://github.com/bahtiyar0/frontend-project-11#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "keywords": []
+}
