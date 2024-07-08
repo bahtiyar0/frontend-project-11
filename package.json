@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/bahtiyar0/frontend-project-11#readme",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "i18next": "^23.11.5",
+    "on-change": "^5.0.1",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.7",
